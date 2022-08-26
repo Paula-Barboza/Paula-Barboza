@@ -1,7 +1,7 @@
 ### Oi! 👋
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/paula-barboza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paula-barboza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paula-barboza&layout=compact&langs_count=7&theme=dracula"/>
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=paula-barboza&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="paula-barboza" />
